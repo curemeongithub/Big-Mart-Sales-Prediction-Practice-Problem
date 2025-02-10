@@ -1,4 +1,0 @@
-Removing these
-
-'Sales_Proportion_of_Outlet'
-'MRP_Visibility_Ratio'
